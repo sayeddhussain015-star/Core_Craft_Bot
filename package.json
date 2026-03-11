@@ -1,5 +1,5 @@
 {
-	"name": "atornes-afkbot",
+	"name": "Core_craft_BOT",
 	"version": "1.0.0",
 	"main": "index.js",
 	"scripts": {
@@ -10,6 +10,6 @@
 	"description": "Aternos AFKBot",
 	"private": true,
 	"dependencies": {
-		"mineflayer": "^4.0.0"
+		"mineflayer": "^4.0.0 
 	}
 }
